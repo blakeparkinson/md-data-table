@@ -1,6 +1,6 @@
 {
   "name": "blake-angular-material-data-table",
-  "version": "0.7.6",
+  "version": "0.8.0",
   "description": "Material Design data table.",
   "main": [
     "dist/md-data-table.min.js",
